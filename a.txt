@@ -1,0 +1,4 @@
+원격 저장소 [--bare 옵션, 로컬 & 원격 저장소 연결 (alias 사용법), 현재 연결된 원격 저장소를 확인하는 방법, 원격 저장소를 지우는 방법, git push의 역할은?, push의 종류 2가지]
+github 기본 [fork란?, fork 진행하는 방법, fork로 복사된 프로젝트 다운 받는 방법]
+원격 저장소 만들기(github) [원격 저장소 만드는 법, README란?, HTTPS or SSH란?, origin의 의미?, 원격 저장소의 프로젝트를 갖고오는 방법 - clone]
+Git – 동기화 방법 [commit message edit 하는법, ]
